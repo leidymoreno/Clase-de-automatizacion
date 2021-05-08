@@ -31,7 +31,7 @@ public class AmazonRegistroPagina {
 	}
 	//Paso 6 Esto es el metodo para identificar los pasos que vamos a crear
 	  //LUEGO DE ESTE PASO 6 --> VAMOS AL PAQUETE Definitions, archivo "DefinitionsSteps.java" y creamos paso 1
-	
+	//git hub
 	@Step
 	public void registroAmazon () {
 	   btnCrear.click();
